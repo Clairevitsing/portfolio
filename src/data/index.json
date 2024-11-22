@@ -1,0 +1,80 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "title": "Front-End",
+      "langages": [
+        { "id": "1", "src": "" },
+        { "id": "2", "src": "" },
+        { "id": "3", "src": "" },
+        { "id": "4", "src": "" },
+        { "id": "5", "src": "" },
+        { "id": "6", "src": "" },
+        { "id": "7", "src": "" },
+        { "id": "8", "src": "" },
+        { "id": "9", "src": "" },
+        { "id": "10", "src": "" }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Back-End",
+      "langages": [
+        { "id": "1", "src": "" },
+        { "id": "2", "src": "" },
+        { "id": "3", "src": "" },
+        { "id": "4", "src": "" },
+        { "id": "5", "src": "" },
+        { "id": "6", "src": "" },
+        { "id": "7", "src": "" },
+        { "id": "8", "src": "" }
+      ]
+    },
+      {
+      "id": "3",
+      "title": "Outils",
+      "langages": [
+        { "id": "1", "src": "" },
+        { "id": "2", "src": "" },
+        { "id": "3", "src": "" },
+        { "id": "4", "src": "" },
+        { "id": "5", "src": "" },
+        { "id": "6", "src": "" },
+        { "id": "7", "src": "" },
+        { "id": "8", "src": "" }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "CMS",
+      "langages": [
+        { "id": "1", "src": "" },
+        { "id": "2", "src": "" }
+      ]
+    }
+
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Ahuse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.",
+      "link": "https://github.com/your-repo"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.",
+      "link": "https://github.com/your-repo"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.",
+      "link": "https://github.com/your-repo"
+    }
+  ]
+}
